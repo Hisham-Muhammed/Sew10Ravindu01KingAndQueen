@@ -8,8 +8,8 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "SEWQUEEN_SESSION": {
-            "description": "Type here yours SEWQUEEN Session.",
+        "_SEW_QUEEN_SESSION": {
+            "description": "Type here yours SEW_QUEEN Session.",
             "required": true
         },
         "SUDO": {
