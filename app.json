@@ -146,7 +146,7 @@
         "NO_ONLINE": {
             "description": "Type true if you don't want to appear online.",
             "required": false,
-            "value": "true"
+            "value": "false"
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Pass This Step!",
