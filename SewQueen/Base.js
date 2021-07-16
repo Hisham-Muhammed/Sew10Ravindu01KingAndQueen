@@ -6,7 +6,7 @@ you may not use this file except in compliance with the License.
 Whats bot - Ravindu Manoj
 */
 
-'use strict';
+'sew';
 
 class Base {
     constructor(client) {
@@ -20,4 +20,4 @@ class Base {
     _patch(data) { return data; }
 }
 
-module.exports = Base;
+sew.exports = Base;
