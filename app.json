@@ -36,6 +36,22 @@
             "required": true,
             "value": "^[.!;]"
         },
+        "BAD_WORD": {
+            "description": "It's true, kick the member who using bad word.",
+            "required": true,
+            "value": "true"
+        },
+
+         "BGM_FILTER": {
+            "description": "If you likes bgm you can write 'true'. Otherwise false",
+            "required": false,
+            "value": "true"
+        },
+         "AUTO_STICKER": {
+            "description": "If you likes bgm you can write 'true'. Otherwise false",
+            "required": false,
+            "value": "true"
+        },
         "FULL_EVA": {
             "description": "Turn your account into a chatbot!",
             "required": true,
