@@ -52,7 +52,7 @@ the user is responsible.
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://Sew01RavinduManoj01KingAndQueen:raviya1234@github.com/Sew01RavinduManoj01KingAndQueen/Sew01RaviduManoj01KingAndQueen)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sew01RavinduManoj01KingAndQueen/Sew10Ravindu01KingAndQueen)
 
 ###🇱🇰 The Hard Method
 ```js
