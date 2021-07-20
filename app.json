@@ -9,20 +9,20 @@
     "stack": "container",
     "env": {
         "_SEW_QUEEN_SESSION": {
-            "description": "Type here yours SEW_QUEEN Session.",
+            "description": "Type here yours SEW_QUEEN Session.QR කෝඩය ස්කෑන් කර ලබා ගන්නා කේතය ඇතුලත් කරන්න",
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
+            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 94xxxxxxxx (USA number +94)",
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language.English => en",
+            "description": "Bot language.English => en, භාශාව තේරීම සදහා",
             "required": true,
             "value": "en"
         },
         "ANTİ_LİNK": {
-            "description": "Link Blocking System.",
+            "description": "Link Blocking System.ගෲපයට කෙනෙකු ලින්ක් එකක් ඇතුලත් කලහොත් ඔහුව ගෲපයෙන් නෙරපා දමයිල්",
             "required": true,
             "value": "false"
         },
@@ -36,19 +36,19 @@
             "required": true,
             "value": "^[.!;]"
         },
-        "BAD_WORD": {
-            "description": "It's true, kick the member who using bad word.",
+        "BAD_KICK": {
+            "description": "It's true, kick the member who using bad word.අසභ්‍ය වචන පාවිච්චි කරන පුද්ගලයන් ගෲපයෙන් ඉවත් කරයි ",
             "required": true,
             "value": "true"
         },
 
          "BGM_FILTER": {
-            "description": "If you likes bgm you can write 'true'. Otherwise false",
+            "description": "If you likes bgm you can write 'true'. Otherwise false.ගැහැනුලමයෙකුගේ කටහඩින් auto voice රිප්ලයි යැවීම සදහා",
             "required": false,
             "value": "true"
         },
          "AUTO_STICKER": {
-            "description": "If you likes bgm you can write 'true'. Otherwise false",
+            "description": "If you likes bgm you can write 'true'. Otherwise false. auto ස්ටිකර්ස් රිප්ලයි යැවීම සදහා",
             "required": false,
             "value": "true"
         },
@@ -82,7 +82,7 @@
             "value": "default"
         },
         "BLOCK_CHAT": {
-            "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
+            "description": "Choose in which chat the bot won't work there. Ex: 94xxxxxxx && 94xxxxxx or 905xxxx,905xxx...",
             "required": false,
             "value": "false"
         },
