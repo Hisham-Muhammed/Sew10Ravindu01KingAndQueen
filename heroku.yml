@@ -1,5 +1,5 @@
 build:
   docker:
-      worker: /media/gif/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/s/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/r/Dockerfile
+      worker: /SewQueen/Dockerfile
 run:
    worker: npm start
