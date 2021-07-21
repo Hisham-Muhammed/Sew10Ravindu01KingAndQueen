@@ -3,6 +3,16 @@
 </div>
 
 
+###🇱🇰 Simple Method
+
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sew01RavinduManoj01KingAndQueen/Sew10Ravindu01KingAndQueen)
+
+
+
+
+
 ## 🇱🇰 RAVINDU MANOJ 🇱🇰  
 ### SEW BOT FOR YOUR HELP😇
 
@@ -48,11 +58,6 @@ the user is responsible.
 
 <h1>🇱🇰 Setup </h1>
 
-###🇱🇰 Simple Method
-
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sew01RavinduManoj01KingAndQueen/Sew10Ravindu01KingAndQueen)
 
 ###🇱🇰 The Hard Method
 ```js
