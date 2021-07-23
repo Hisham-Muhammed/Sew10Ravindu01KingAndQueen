@@ -7,7 +7,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg width="100" height="100")](https://heroku.com/deploy?template=https://github.com/Sew01RavinduManoj01KingAndQueen/Sew10Ravindu01KingAndQueen)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg?size=100)](https://heroku.com/deploy?template=https://github.com/Sew01RavinduManoj01KingAndQueen/Sew10Ravindu01KingAndQueen)
 
 
 
