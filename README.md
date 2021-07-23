@@ -3,9 +3,11 @@
 </div>
 
 
-###🇱🇰 Simple Method
+🇱🇰 FORE QR SCAN 👇👇👇👇 QR කේතය ලබාගැනීමට පහත රූපය මත ටච් කරන්න
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](media/gif/qr-scan.gif)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+
+For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත රූපය මත ටච් කරන්න
 
 [![Deploy](media/gif/IMG_20210724_012025.png)](https://heroku.com/deploy?template=https://github.com/Sew01RavinduManoj01KingAndQueen/Sew10Ravindu01KingAndQueen)
 
