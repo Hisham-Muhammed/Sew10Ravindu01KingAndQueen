@@ -7,7 +7,7 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sew01RavinduManoj01KingAndQueen/Sew10Ravindu01KingAndQueen)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg width="100" height="100")](https://heroku.com/deploy?template=https://github.com/Sew01RavinduManoj01KingAndQueen/Sew10Ravindu01KingAndQueen)
 
 
 
@@ -15,6 +15,10 @@
 
 ## 🇱🇰 RAVINDU MANOJ 🇱🇰  
 ### SEW BOT FOR YOUR HELP😇
+
+<div align="center">
+<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+  </div>
 
 - [RavinduManoj](https://github.com/RavinduManoj)
 - [@RavinduManoj](https://t.me/RavinduManoj)
@@ -37,6 +41,8 @@ the user is responsible.
 
 <div align="center">
   <img src="https://github.com/RavinduManoj/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="250" height="250">
+  
+  
   <h1>🍁  Whatsapp Bot By Ravindu Manoj  🍁</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
@@ -58,6 +64,9 @@ the user is responsible.
 
 <h1>🇱🇰 Setup </h1>
 
+<div align="center">
+<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+  </div>
 
 ###🇱🇰 The Hard Method
 ```js
@@ -85,6 +94,10 @@ Absolutely, SewQueen executives do not accept responsibility.
 By establishing the SewQueen, you are deemed to have accepted these responsibilities.
 ```
 
+<div align="center">
+<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+  </div>p
+
 ##🇱🇰 Developer 🍁
 
 [![RAVINDU MANOJ](https://github.com/RavinduManoj/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="100" height="100")](https://www.fusuf.codes)
@@ -104,7 +117,9 @@ This project is protected by `GNU General Public Licence v3.0` license.
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
 
-##
+<div align="center">
+<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+  </div>
 
 ## 🇱🇰 SewQueen Features
 
@@ -147,7 +162,9 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | Web Screenshot Plugin|✅|1.5|
 | Wallpaper Plugin|✅|1.4|
 
-## Plugin Açıklamaları
+<div align="center">
+<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+  </div>
 
 | Command 💻 |Description ℹ️|
 | ---------- | -------------------- |
@@ -216,6 +233,10 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | .deepai| Provides a list of AI tools that use deep learning with Deep AI artificial intelligence.|
 | .wallpaper| Sends random high resolution wallpaper.|
 
+<div align="center">
+<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+  </div>
+
 ### XMedia Plugin Commands 🛠️
 | Command 💻 | Description ℹ️|
 | ---------- | -------------------- |
@@ -258,6 +279,11 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | .scam online| It shows you online for 5 minutes.|
 | .scam stop| Stops fake actions.|
 
+<div align="center">
+<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+  </div>
+
+
 ### Deep AI Commands 🛠️
 | Command 💻 | Discretion ℹ️|
 | ---------- | -------------------- |
@@ -273,3 +299,6 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | .nudityai| Shows the NSFW value of the photo between 1 and 0.|
 | .ganstyle| Combines pictures with the image link in Config Vars with the help of artificial intelligence.|
 
+<div align="center">
+<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
+  </div>
