@@ -41,7 +41,11 @@
             "required": true,
             "value": "true"
         },
-
+        "SPAM_KICK": {
+            "description": "It's true, kick the member who using spam.ස්පෑම් දමන පුද්ගලයන් ගෲපයෙන් ඉවත් කරයි ",
+            "required": true,
+            "value": "true"
+        },
          "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false.ගැහැනුලමයෙකුගේ කටහඩින් auto voice රිප්ලයි යැවීම සදහා",
             "required": false,
