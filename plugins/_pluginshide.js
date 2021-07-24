@@ -10,3 +10,5 @@ const PL = require("plugins/hideplugins.py")
 #emoji to txt
 #bad word kick out
 #anti group link
+#spam kick Added
+#Group Crash Added
